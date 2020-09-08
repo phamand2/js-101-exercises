@@ -1,6 +1,6 @@
 // Write a function that takes a number as an input.
 function finalFunction(num){
-  var arr = []
+  const arr = []
 
   for (let i = 0; i < num; i++) {
     arr.push('hello')
